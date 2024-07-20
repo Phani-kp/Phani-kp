@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Phaneendhra Katakam
-- 👀 I’m interested in Data Engineerung
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning creating pipeloines with databricks using Apache Spark
 - 💞️ I’m looking to collaborate on Big data Technologies and cross-functional teams
 - 📫 How to reach me Phaneendhrak0427@gmail.com 
